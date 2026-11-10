@@ -1,0 +1,40 @@
+[{
+  "_id": "FAC001",
+  "cliente_id": "CLI001",
+  "fecha": "2026-11-10",
+  "subtotal": 45000,
+  "iva": 8550,
+  "total": 53550
+},
+{
+  "_id": "FAC002",
+  "cliente_id": "CLI002",
+  "fecha": "2026-11-10",
+  "subtotal": 30000,
+  "iva": 5700,
+  "total": 35700
+},
+{
+  "_id": "FAC003",
+  "cliente_id": "CLI003",
+  "fecha": "2026-11-10",
+  "subtotal": 60000,
+  "iva": 11400,
+  "total": 71400
+},
+{
+  "_id": "FAC004",
+  "cliente_id": "CLI004",
+  "fecha": "2026-11-10",
+  "subtotal": 25000,
+  "iva": 4750,
+  "total": 29750
+},
+{
+  "_id": "FAC005",
+  "cliente_id": "CLI005",
+  "fecha": "2026-11-10",
+  "subtotal": 80000,
+  "iva": 15200,
+  "total": 95200
+}]

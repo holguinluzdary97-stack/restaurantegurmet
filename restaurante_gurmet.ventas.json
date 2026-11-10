@@ -1,0 +1,45 @@
+[{
+  "_id": "VEN001",
+  "pedido_id": "PED001",
+  "producto": "Bandeja paisa",
+  "cantidad": 2,
+  "total": 56000,
+  "metodo_pago": "Efectivo",
+  "fecha": "2026-11-10"
+},
+{
+  "_id": "VEN002",
+  "pedido_id": "PED002",
+  "producto": "Ajiaco santafereño",
+  "cantidad": 1,
+  "total": 22000,
+  "metodo_pago": "Tarjeta",
+  "fecha": "2026-11-10"
+},
+{
+  "_id": "VEN003",
+  "pedido_id": "PED003",
+  "producto": "Pechuga a la plancha",
+  "cantidad": 2,
+  "total": 50000,
+  "metodo_pago": "Transferencia",
+  "fecha": "2026-11-10"
+},
+{
+  "_id": "VEN004",
+  "pedido_id": "PED004",
+  "producto": "Limonada natural",
+  "cantidad": 3,
+  "total": 18000,
+  "metodo_pago": "Efectivo",
+  "fecha": "2026-11-10"
+},
+{
+  "_id": "VEN005",
+  "pedido_id": "PED005",
+  "producto": "Postre de tres leches",
+  "cantidad": 2,
+  "total": 16000,
+  "metodo_pago": "Tarjeta",
+  "fecha": "2026-11-10"
+}]

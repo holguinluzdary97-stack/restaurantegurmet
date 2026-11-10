@@ -1,0 +1,40 @@
+[{
+  "_id": "PED001",
+  "cliente_id": "CLI001",
+  "menu_id": "MEN001",
+  "cantidad": 2,
+  "total": 56000,
+  "estado": "Entregado"
+},
+{
+  "_id": "PED002",
+  "cliente_id": "CLI002",
+  "menu_id": "MEN002",
+  "cantidad": 1,
+  "total": 22000,
+  "estado": "En preparación"
+},
+{
+  "_id": "PED003",
+  "cliente_id": "CLI003",
+  "menu_id": "MEN003",
+  "cantidad": 2,
+  "total": 50000,
+  "estado": "Pendiente"
+},
+{
+  "_id": "PED004",
+  "cliente_id": "CLI004",
+  "menu_id": "MEN004",
+  "cantidad": 3,
+  "total": 18000,
+  "estado": "Entregado"
+},
+{
+  "_id": "PED005",
+  "cliente_id": "CLI005",
+  "menu_id": "MEN005",
+  "cantidad": 2,
+  "total": 16000,
+  "estado": "En preparación"
+}]

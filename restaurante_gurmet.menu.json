@@ -1,0 +1,35 @@
+[{
+  "_id": "MEN001",
+  "nombre": "Bandeja paisa",
+  "categoria": "Plato principal",
+  "precio": 28000,
+  "disponible": true
+},
+{
+  "_id": "MEN002",
+  "nombre": "Ajiaco santafereño",
+  "categoria": "Sopa",
+  "precio": 22000,
+  "disponible": true
+},
+{
+  "_id": "MEN003",
+  "nombre": "Pechuga a la plancha",
+  "categoria": "Plato principal",
+  "precio": 25000,
+  "disponible": true
+},
+{
+  "_id": "MEN004",
+  "nombre": "Limonada natural",
+  "categoria": "Bebida",
+  "precio": 6000,
+  "disponible": true
+},
+{
+  "_id": "MEN005",
+  "nombre": "Postre de tres leches",
+  "categoria": "Postre",
+  "precio": 8000,
+  "disponible": true
+}]

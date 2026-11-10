@@ -1,0 +1,30 @@
+[{
+  "_id": "CLI007",
+  "nombre": "Sofía Herrera",
+  "telefono": "3112345678",
+  "correo": "sofia@gmail.com"
+},
+{
+  "_id": "CLI008",
+  "nombre": "Miguel Castro",
+  "telefono": "3123456789",
+  "correo": "miguel@gmail.com"
+},
+{
+  "_id": "CLI009",
+  "nombre": "Valentina López",
+  "telefono": "3134567890",
+  "correo": "valentina@gmail.com"
+},
+{
+  "_id": "CLI010",
+  "nombre": "Sebastián Rojas",
+  "telefono": "3145678901",
+  "correo": "sebastian@gmail.com"
+},
+{
+  "_id": "CLI011",
+  "nombre": "Camila Fernández",
+  "telefono": "3156789012",
+  "correo": "camila@gmail.com"
+}]
